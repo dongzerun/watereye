@@ -8,6 +8,7 @@ import (
 	log "github.com/dongzerun/logger"
 
 	"conf"
+	"http"
 )
 
 func init() {
@@ -29,6 +30,8 @@ func main() {
 	conf.InitConfig(*config_file)
 
 	init_logger()
+
+	http.Start()
 }
 
 func init_logger() {

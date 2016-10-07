@@ -12,9 +12,14 @@ var (
 )
 
 type Config struct {
-	LogConfig LogConfig `toml:"golog"` // 日志配置
+	LogConfig  LogConfig  `toml:"golog"` // 日志配置
+	HttpConfig HttpConfig `toml:"http"`
 	// AdDBConfig       DBconfig               `toml:"addb"`         // 广告数据库配置
 	// CacheConfig      map[string]Redisconfig `toml:"cache"`     // redis cache配置
+}
+
+type HttpConfig struct {
+	Listen string `toml:"listen"`
 }
 
 type LogConfig struct {

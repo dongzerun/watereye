@@ -6,3 +6,6 @@ filename    = "water.log"
 reserve_num = 7
 suffix      = "20060102"
 colorfull   = 0
+
+[http]
+listen 		= "0.0.0.0:8080"

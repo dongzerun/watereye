@@ -15,10 +15,52 @@
 			"revisionTime": "2016-09-22T15:18:45Z"
 		},
 		{
+			"checksumSHA1": "kvh5e+wfUxDG/paDxJmw/5ncSlE=",
+			"path": "github.com/codegangsta/negroni",
+			"revision": "5d815f907a182b6131cc88af3f17f898b93142a5",
+			"revisionTime": "2016-08-30T03:03:02Z"
+		},
+		{
 			"checksumSHA1": "wz3vIRaESNziV0/NZymmZK9jQ6o=",
 			"path": "github.com/dongzerun/logger",
 			"revision": "ba25ac0e4a5b864ab715248cad82a172d77e0461",
 			"revisionTime": "2016-05-16T06:07:55Z"
+		},
+		{
+			"checksumSHA1": "iIUYZyoanCQQTUaWsu8b+iOSPt4=",
+			"path": "github.com/gorilla/context",
+			"revision": "1c83b3eabd45b6d76072b66b746c20815fb2872d",
+			"revisionTime": "2015-08-20T05:12:45Z"
+		},
+		{
+			"checksumSHA1": "8jXj6IMkk1B0LdIYgVG5Vn01/NU=",
+			"path": "github.com/gorilla/mux",
+			"revision": "ee1815431e497d3850809578c93ab6705f1a19f7",
+			"revisionTime": "2015-08-20T05:15:06Z"
+		},
+		{
+			"checksumSHA1": "ddT2jJ++XzLIFZxHl21pL+i3e3Q=",
+			"path": "github.com/toolkits/core",
+			"revision": "0ebf14900fe2ef12a8a19a0c04711538531d51e3",
+			"revisionTime": "2014-11-16T05:49:42Z"
+		},
+		{
+			"checksumSHA1": "8tawMtDXAb67XAlkRg043K6ud5M=",
+			"path": "github.com/toolkits/str",
+			"revision": "29a153db8892174849cb83986a2c942375977d61",
+			"revisionTime": "2016-04-19T02:31:44Z"
+		},
+		{
+			"checksumSHA1": "YjhL0IK7wqELYd/c8y23sUG4aGM=",
+			"path": "github.com/toolkits/web",
+			"revision": "dc0f03327e1d58851ef88fca6e8008ffb6de806a",
+			"revisionTime": "2016-03-12T23:26:17Z"
+		},
+		{
+			"checksumSHA1": "okVc59R24thYIwcZP1ltDpnbDEM=",
+			"path": "github.com/unrolled/render",
+			"revision": "3f4913244021dede105b62caecfb01f0c1eebeda",
+			"revisionTime": "2016-08-30T16:57:26Z"
 		}
 	],
 	"rootPath": "watereye/src"
