@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "UJTpOZ5IuuyoWFrS42uw/167mn0=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "f0aeabca5a127c4078abb8c8d64298b147264b55",
+			"revisionTime": "2016-04-26T10:16:13Z"
+		},
+		{
+			"checksumSHA1": "ZZ4FL7s5f8QK4RysjZObSBYGOLY=",
+			"path": "github.com/astaxie/beego",
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z"
+		},
+		{
+			"checksumSHA1": "wz3vIRaESNziV0/NZymmZK9jQ6o=",
+			"path": "github.com/dongzerun/logger",
+			"revision": "ba25ac0e4a5b864ab715248cad82a172d77e0461",
+			"revisionTime": "2016-05-16T06:07:55Z"
+		}
+	],
+	"rootPath": "watereye/src"
+}
